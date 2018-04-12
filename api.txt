@@ -1,0 +1,6 @@
+https://react-ssr-api.herokuapp.com
+/users
+/admins
+/auth/google
+/current_user
+/logout
